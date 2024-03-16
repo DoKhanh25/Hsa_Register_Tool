@@ -40,13 +40,8 @@ public class GetPeriodAPI {
             reader.close();
             connection.disconnect();
 
-            System.out.println("Response Code: " + responseCode);
-            System.out.println("Response Body: " + response.toString());
 
             List<AvailablePeriodDTO> availablePeriodDTOS = objectMapper.readValue(response.toString(), new TypeReference<List<AvailablePeriodDTO>>(){});
-
-            System.out.println(availablePeriodDTOS.get(0));
-
             return availablePeriodDTOS.get(0);
         } catch (Exception e){
             System.out.println();

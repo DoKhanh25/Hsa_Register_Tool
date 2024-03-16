@@ -63,7 +63,7 @@ public class PostRegisterAPI {
                   response.append(line);
               }
               reader.close();
-              System.out.println("Response Body: " + response.toString());
+              System.out.println("Response Body Register " + response.toString());
               return true;
 
           } else if(responseCode >= 400 && responseCode < 600){

@@ -39,8 +39,6 @@ public class GetBatchAPI {
             reader.close();
             connection.disconnect();
 
-            System.out.println("Response Code: " + responseCode);
-            System.out.println("Response Body Batch : " + response.toString());
             List<BatchDTO> batchDTOS = objectMapper.readValue(response.toString(), new TypeReference<List<BatchDTO>>(){});
             return batchDTOS;
         } catch (Exception e){

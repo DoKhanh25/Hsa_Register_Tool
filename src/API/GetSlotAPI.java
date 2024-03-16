@@ -12,7 +12,7 @@ import java.util.List;
 
 public class GetSlotAPI {
     private final String SLOT_URL = "https://api.hsa.edu.vn/exam/views/registration/available-slot";
-    public void getSlot(String locationId, String token){
+    public List<SlotDTO> getSlot(String locationId, String token){
         try {
             URL url = new URL(SLOT_URL + "?locationId=" + locationId);
             ObjectMapper objectMapper = new ObjectMapper();
@@ -36,12 +36,11 @@ public class GetSlotAPI {
             reader.close();
             connection.disconnect();
 
-            System.out.println("Response Code: " + responseCode);
-            System.out.println("Response Body Slot : " + response.toString());
             List<SlotDTO> slotDTOList = objectMapper.readValue(response.toString(), new TypeReference<List<SlotDTO>>(){});
-            System.out.println("slotList: " + slotDTOList);
+            return slotDTOList;
         } catch (Exception e){
             System.out.println("Error: " + e.getMessage());
+            return null;
         }
     }
 

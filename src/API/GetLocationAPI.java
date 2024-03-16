@@ -38,12 +38,7 @@ public class GetLocationAPI {
             reader.close();
             connection.disconnect();
 
-
-            System.out.println("Response Code: " + responseCode);
-            System.out.println("Response Body Location : " + response.toString());
             List<LocationDTO> locationDTOList = objectMapper.readValue(response.toString(), new TypeReference<List<LocationDTO>>(){});
-            System.out.println("locationList: " + locationDTOList);
-
             return locationDTOList;
 
         } catch (Exception e){
