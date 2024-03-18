@@ -14,6 +14,7 @@ import java.net.URL;
 public class LoginAPI {
     final  String LOGIN_URL = "https://api.hsa.edu.vn/accounts/sign-in";
     public LoginBody login(String username, String password) {
+        System.out.println("--------------------------------------------------------------------------------------------");
         System.out.println("Logging in with username: " + username + " and password: " + password);
         try {
             URL url = new URL(LOGIN_URL);

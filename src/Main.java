@@ -9,8 +9,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
 import java.io.FileWriter;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.*;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -38,9 +36,6 @@ public class Main {
         List<AccountRegisterDTO> accountRegisterDTOS = main.getAccountRegister(excelPath);
         ScheduledExecutorService executorService = Executors.newScheduledThreadPool(15);
 
-        System.out.println("logPath: " + logPath);
-        System.out.println("excelPath: " + excelPath);
-
 
 
         for(AccountRegisterDTO accountRegisterDTO : accountRegisterDTOS){
@@ -60,36 +55,43 @@ public class Main {
                                             accountRegisterDTO.getBatchId(), accountRegisterDTO.getPeriodId(),
                                             accountRegisterDTO.getLocationId(), accountRegisterDTO.getSlotId());
                                     if(result){
-                                        writer.write(accountRegisterDTO.getUsername() + "Đăng ký thành công");
+                                        writer.write(accountRegisterDTO.getUsername() + " Dang ky thang cong");
                                         writer.newLine();
-                                        executorService.shutdown();
                                     } else {
-                                        System.out.println(accountRegisterDTO.getUsername() + " đăng ký thất bại");
+                                        System.out.println(accountRegisterDTO.getUsername() + " Dang ky that bai");
                                     }
                                 }
                                 else{
-                                    System.out.println("Slot của " + accountRegisterDTO.getUsername() + " đã đầy");
+                                    System.out.println("Slot cua " + accountRegisterDTO.getUsername() + " da day");
                                 }
                             }
                         }
-                    } else {
+                    } else if(accountRegisterDTO.getStatus().equals("1")){
                         Boolean result = randomRegister2(accountRegisterDTO.getUsername(), accountRegisterDTO.getPassword());
                         if(result){
-                            writer.write(accountRegisterDTO.getUsername() + "Đăng ký thành công");
+                            writer.write(accountRegisterDTO.getUsername() + " Dang ky thang cong");
                             writer.newLine();
-                            executorService.shutdown();
                         } else {
-                            System.out.println(accountRegisterDTO.getUsername() + " đăng ký thất bại");
+                            System.out.println(accountRegisterDTO.getUsername() + " Dang ky that bai");
+                        }
+                    } else {
+                        ResultDTO resultDTO = randomRegisterByLocation(accountRegisterDTO.getUsername(), accountRegisterDTO.getPassword(),
+                                accountRegisterDTO.getLocationId(), accountRegisterDTO.getBatchId(), "35");
+                        if(resultDTO.getSuccess()){
+                            System.out.println(accountRegisterDTO.getUsername() + " " + resultDTO.getMessage());
+                            writer.write(accountRegisterDTO.getUsername() + " Dang ky thang cong");
+                            writer.newLine();
+                        } else {
+                            System.out.println(accountRegisterDTO.getUsername() + " " + resultDTO.getMessage());
+                            System.out.println(accountRegisterDTO.getUsername() + " Dang ky that bai");
+
                         }
                     }
-
                 } catch (Exception e) {
                     System.out.println("Error: " + e.getMessage());
                 }
             }, 0, time, TimeUnit.SECONDS);
         }
-
-
     }
 
     private List<AccountRegisterDTO> getAccountRegister(String path){
@@ -208,6 +210,41 @@ public class Main {
             }
         }
         return false;
+    }
+
+    private static ResultDTO randomRegisterByLocation(String username, String password, String locationId, String batchId, String periodId) throws Exception{
+        LoginAPI loginAPI = new LoginAPI();
+        LoginBody loginBody = loginAPI.login(username, password);
+        GetSlotAPI getSlotAPI = new GetSlotAPI();
+        ResultDTO resultDTO = new ResultDTO();
+        SlotDTO slotDTORs = new SlotDTO();
+
+        resultDTO.setSuccess(false);
+        resultDTO.setMessage("Khong co slot nao con trong trong location nay");
+
+
+        if(loginBody == null){
+            System.out.println("Login failed");
+            resultDTO.setSuccess(false);
+            resultDTO.setMessage("Login failed");
+            return resultDTO;
+        }
+
+        List<SlotDTO> slotDTOList = getSlotAPI.getSlot(locationId, loginBody.getToken());
+        for (SlotDTO slotDTO: slotDTOList){
+            if(slotDTO.getRegisteredSlots() < slotDTO.getNumberOfSeats()){
+               resultDTO.setSuccess(true);
+                resultDTO.setMessage("Con cho trong trong location nay");
+                slotDTORs = slotDTO;
+                break;
+            }
+        }
+        if(resultDTO.getSuccess()){
+            PostRegisterAPI postRegisterAPI = new PostRegisterAPI();
+            resultDTO.setSuccess(postRegisterAPI.postRegister(loginBody.getToken(), batchId, locationId, slotDTORs.getId(), periodId, loginBody.getAccountInfo().getId()));
+            return resultDTO;
+        }
+        return resultDTO;
     }
 
     private Boolean normalRegister(String username, String password,

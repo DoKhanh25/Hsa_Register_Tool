@@ -1,0 +1,560 @@
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 1 - 07h00 |slotID-966
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 2 - 07h15 |slotID-967
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 3 - 13h15 |slotID-968
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 4 - 13h30 |slotID-969
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 1 - 07h00 |slotID-970
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 2 - 07h15 |slotID-971
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 3 - 13h15 |slotID-972
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-184| Slot name: Ca 4 - 13h30 |slotID-973
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 1 - 07h00 |slotID-974
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 2 - 07h15 |slotID-975
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 3 - 13h15 |slotID-976
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 4 - 13h30 |slotID-977
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 1 - 07h00 |slotID-978
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 2 - 07h15 |slotID-979
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 3 - 13h15 |slotID-980
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-186| Slot name: Ca 4 - 13h30 |slotID-981
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 1 - 07h00 |slotID-982
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 2 - 07h15 |slotID-983
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 3 - 13h15 |slotID-984
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 4 - 13h30 |slotID-985
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 1 - 07h00 |slotID-986
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 2 - 07h15 |slotID-988
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 3 - 13h15 |slotID-989
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-187| Slot name: Ca 4 - 13h30 |slotID-990
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 1 - 07h00 |slotID-1023
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 2 - 07h15 |slotID-1024
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 3 - 13h15 |slotID-1025
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 4 - 13h30 |slotID-1026
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 1 - 07h00 |slotID-1027
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 2 - 07h15 |slotID-1028
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 3 - 13h15 |slotID-1029
+Ten batch: HSA 401| BatchId-65| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-188| Slot name: Ca 4 - 13h30 |slotID-1030
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 1 - 07h00 |slotID-1007
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 2 - 07h15 |slotID-1008
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 3 - 13h15 |slotID-1009
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 4 - 13h30 |slotID-1010
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 1 - 07h00 |slotID-1011
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 2 - 07h15 |slotID-1012
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 3 - 13h15 |slotID-1013
+Ten batch: HSA 401| BatchId-65| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-191| Slot name: Ca 4 - 13h30 |slotID-1014
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 1 - 07h00 |slotID-1015
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 2 - 07h15 |slotID-1016
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 3 - 13h15 |slotID-1017
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 4 - 13h30 |slotID-1018
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 1 - 07h00 |slotID-1019
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 2 - 07h15 |slotID-1020
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 3 - 13h15 |slotID-1021
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-HV Ngân hàng| locationID-190| Slot name: Ca 4 - 13h30 |slotID-1022
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 1 - 07h00 |slotID-991
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 2 - 07h15 |slotID-992
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 3 - 13h15 |slotID-993
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 4 - 13h30 |slotID-994
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 1 - 07h00 |slotID-995
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 2 - 07h15 |slotID-996
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 3 - 13h15 |slotID-997
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-192| Slot name: Ca 4 - 13h30 |slotID-998
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 1 - 07h00 |slotID-999
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 2 - 07h15 |slotID-1000
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 3 - 13h15 |slotID-1001
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 4 - 13h30 |slotID-1002
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 1 - 07h00 |slotID-1003
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 2 - 07h15 |slotID-1004
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 3 - 13h15 |slotID-1005
+Ten batch: HSA 401| BatchId-65| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-193| Slot name: Ca 4 - 13h30 |slotID-1006
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 1 - 07h00 |slotID-1047
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 2 - 07h15 |slotID-1048
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 3 - 13h15 |slotID-1049
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 4 - 13h30 |slotID-1050
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 1 - 07h00 |slotID-1051
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 2 - 07h15 |slotID-1052
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 3 - 13h15 |slotID-1053
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-194| Slot name: Ca 4 - 13h30 |slotID-1054
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 1 - 07h00 |slotID-1071
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 2 - 07h15 |slotID-1072
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 3 - 13h15 |slotID-1073
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 4 - 13h30 |slotID-1074
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 1 - 07h00 |slotID-1075
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 2 - 07h15 |slotID-1076
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 3 - 13h15 |slotID-1077
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-195| Slot name: Ca 4 - 13h30 |slotID-1078
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 1 - 07h00 |slotID-1055
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 2 - 07h15 |slotID-1056
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 3 - 13h15 |slotID-1057
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 4 - 13h30 |slotID-1058
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 1 - 07h00 |slotID-1059
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 2 - 07h15 |slotID-1060
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 3 - 13h15 |slotID-1061
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-196| Slot name: Ca 4 - 13h30 |slotID-1062
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 1 - 07h00 |slotID-1095
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 2 - 07h15 |slotID-1096
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 3 - 13h15 |slotID-1097
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 4 - 13h30 |slotID-1098
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 1 - 07h00 |slotID-1099
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 2 - 07h15 |slotID-1100
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 3 - 13h15 |slotID-1101
+Ten batch: HSA 402| BatchId-71| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-197| Slot name: Ca 4 - 13h30 |slotID-1102
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 1 - 07h00 |slotID-1087
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 2 - 07h15 |slotID-1088
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 3 - 13h15 |slotID-1089
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 4 - 13h30 |slotID-1090
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 1 - 07h00 |slotID-1091
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 2 - 07h15 |slotID-1092
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 3 - 13h15 |slotID-1093
+Ten batch: HSA 402| BatchId-71| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-198| Slot name: Ca 4 - 13h30 |slotID-1094
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 1 - 07h00 |slotID-1063
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 2 - 07h15 |slotID-1064
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 3 - 13h15 |slotID-1065
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 4 - 13h30 |slotID-1066
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 1 - 07h00 |slotID-1067
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 2 - 07h15 |slotID-1068
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 3 - 13h15 |slotID-1069
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-HV Ngân hàng| locationID-199| Slot name: Ca 4 - 13h30 |slotID-1070
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 1 - 07h00 |slotID-1031
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 2 - 07h15 |slotID-1032
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 3 - 13h15 |slotID-1033
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 4 - 13h30 |slotID-1034
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 1 - 07h00 |slotID-1035
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 2 - 07h15 |slotID-1036
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 3 - 13h15 |slotID-1037
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-200| Slot name: Ca 4 - 13h30 |slotID-1038
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 1 - 07h00 |slotID-1119
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 2 - 07h15 |slotID-1120
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 3 - 13h15 |slotID-1121
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 4 - 13h30 |slotID-1122
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 1 - 07h00 |slotID-1123
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 2 - 07h15 |slotID-1124
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 3 - 13h15 |slotID-1125
+Ten batch: HSA 402| BatchId-71| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-201| Slot name: Ca 4 - 13h30 |slotID-1126
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 1 - 07h00 |slotID-1039
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 2 - 07h15 |slotID-1040
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 3 - 13h15 |slotID-1041
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 4 - 13h30 |slotID-1042
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 1 - 07h00 |slotID-1043
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 2 - 07h15 |slotID-1044
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 3 - 13h15 |slotID-1045
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-202| Slot name: Ca 4 - 13h30 |slotID-1046
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 1 - 07h00 |slotID-1111
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 2 - 07h15 |slotID-1112
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 3 - 13h15 |slotID-1113
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 4 - 13h30 |slotID-1114
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 1 - 07h00 |slotID-1115
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 2 - 07h15 |slotID-1116
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 3 - 13h15 |slotID-1117
+Ten batch: HSA 402| BatchId-71| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-203| Slot name: Ca 4 - 13h30 |slotID-1118
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 1 - 07h00 |slotID-1103
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 2 - 07h15 |slotID-1104
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 3 - 13h15 |slotID-1105
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 4 - 13h30 |slotID-1106
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 1 - 07h00 |slotID-1107
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 2 - 07h15 |slotID-1108
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 3 - 13h15 |slotID-1109
+Ten batch: HSA 402| BatchId-71| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-204| Slot name: Ca 4 - 13h30 |slotID-1110
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 1 - 07h00 |slotID-1079
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 2 - 07h15 |slotID-1080
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 3 - 13h15 |slotID-1081
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 4 - 13h30 |slotID-1082
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 1 - 07h00 |slotID-1083
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 2 - 07h15 |slotID-1084
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 3 - 13h15 |slotID-1085
+Ten batch: HSA 402| BatchId-71| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-205| Slot name: Ca 4 - 13h30 |slotID-1086
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 1 - 07h00 |slotID-1207
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 2 - 07h15 |slotID-1208
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 3 - 13h15 |slotID-1209
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 4 - 13h30 |slotID-1210
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 1 - 07h00 |slotID-1211
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 2 - 07h15 |slotID-1212
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 3 - 13h15 |slotID-1213
+Ten batch: HSA 403| BatchId-72| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-206| Slot name: Ca 4 - 13h30 |slotID-1214
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 1 - 07h00 |slotID-1143
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 2 - 07h15 |slotID-1144
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 3 - 13h15 |slotID-1145
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 4 - 13h30 |slotID-1146
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 1 - 07h00 |slotID-1147
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 2 - 07h15 |slotID-1148
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 3 - 13h15 |slotID-1149
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-207| Slot name: Ca 4 - 13h30 |slotID-1150
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 1 - 07h00 |slotID-1183
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 2 - 07h15 |slotID-1184
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 3 - 13h15 |slotID-1185
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 4 - 13h30 |slotID-1186
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 1 - 07h00 |slotID-1187
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 2 - 07h15 |slotID-1188
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 3 - 13h15 |slotID-1189
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-208| Slot name: Ca 4 - 13h30 |slotID-1190
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 1 - 07h00 |slotID-1231
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 2 - 07h15 |slotID-1232
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 3 - 13h15 |slotID-1233
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 4 - 13h30 |slotID-1234
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 1 - 07h00 |slotID-1235
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 2 - 07h15 |slotID-1236
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 3 - 13h15 |slotID-1237
+Ten batch: HSA 403| BatchId-72| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-209| Slot name: Ca 4 - 13h30 |slotID-1238
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 1 - 07h00 |slotID-1167
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 2 - 07h15 |slotID-1168
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 3 - 13h15 |slotID-1169
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 4 - 13h30 |slotID-1170
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 1 - 07h00 |slotID-1171
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 2 - 07h15 |slotID-1172
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 3 - 13h15 |slotID-1173
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-210| Slot name: Ca 4 - 13h30 |slotID-1174
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 1 - 07h00 |slotID-1151
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 2 - 07h15 |slotID-1152
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 3 - 13h15 |slotID-1153
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 4 - 13h30 |slotID-1154
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 1 - 07h00 |slotID-1155
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 2 - 07h15 |slotID-1156
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 3 - 13h15 |slotID-1157
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-211| Slot name: Ca 4 - 13h30 |slotID-1158
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 1 - 07h00 |slotID-1191
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 2 - 07h15 |slotID-1192
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 3 - 13h15 |slotID-1193
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 4 - 13h30 |slotID-1194
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 1 - 07h00 |slotID-1195
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 2 - 07h15 |slotID-1196
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 3 - 13h15 |slotID-1197
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Phenikaa| locationID-212| Slot name: Ca 4 - 13h30 |slotID-1198
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 1 - 07h00 |slotID-1199
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 2 - 07h15 |slotID-1200
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 3 - 13h15 |slotID-1201
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 4 - 13h30 |slotID-1202
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 1 - 07h00 |slotID-1203
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 2 - 07h15 |slotID-1204
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 3 - 13h15 |slotID-1205
+Ten batch: HSA 403| BatchId-72| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-213| Slot name: Ca 4 - 13h30 |slotID-1206
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 1 - 07h00 |slotID-1159
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 2 - 07h15 |slotID-1160
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 3 - 13h15 |slotID-1161
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 4 - 13h30 |slotID-1162
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 1 - 07h00 |slotID-1163
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 2 - 07h15 |slotID-1164
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 3 - 13h15 |slotID-1165
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-HV Ngân hàng| locationID-214| Slot name: Ca 4 - 13h30 |slotID-1166
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 1 - 07h00 |slotID-1127
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 2 - 07h15 |slotID-1128
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 3 - 13h15 |slotID-1129
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 4 - 13h30 |slotID-1130
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 1 - 07h00 |slotID-1131
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 2 - 07h15 |slotID-1132
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 3 - 13h15 |slotID-1133
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-215| Slot name: Ca 4 - 13h30 |slotID-1134
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 1 - 07h00 |slotID-1175
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 2 - 07h15 |slotID-1176
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 3 - 13h15 |slotID-1177
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 4 - 13h30 |slotID-1178
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 1 - 07h00 |slotID-1179
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 2 - 07h15 |slotID-1180
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 3 - 13h15 |slotID-1181
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghiệp HN| locationID-216| Slot name: Ca 4 - 13h30 |slotID-1182
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 1 - 07h00 |slotID-1135
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 2 - 07h15 |slotID-1136
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 3 - 13h15 |slotID-1137
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 4 - 13h30 |slotID-1138
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 1 - 07h00 |slotID-1139
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 2 - 07h15 |slotID-1140
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 3 - 13h15 |slotID-1141
+Ten batch: HSA 403| BatchId-72| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-217| Slot name: Ca 4 - 13h30 |slotID-1142
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 1 - 07h00 |slotID-1215
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 2 - 07h15 |slotID-1216
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 3 - 13h15 |slotID-1217
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 4 - 13h30 |slotID-1218
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 1 - 07h00 |slotID-1219
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 2 - 07h15 |slotID-1220
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 3 - 13h15 |slotID-1221
+Ten batch: HSA 403| BatchId-72| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-218| Slot name: Ca 4 - 13h30 |slotID-1222
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 1 - 07h00 |slotID-1223
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 2 - 07h15 |slotID-1224
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 3 - 13h15 |slotID-1225
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 4 - 13h30 |slotID-1226
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 1 - 07h00 |slotID-1227
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 2 - 07h15 |slotID-1228
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 3 - 13h15 |slotID-1229
+Ten batch: HSA 403| BatchId-72| Location name:Hà Tĩnh-Trư�?ng �?H Hà Tĩnh| locationID-219| Slot name: Ca 4 - 13h30 |slotID-1230
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 1 - 07h00 |slotID-1311
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 2 - 07h15 |slotID-1312
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 3 - 13h15 |slotID-1313
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 4 - 13h30 |slotID-1314
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 5 - 07h00 |slotID-1315
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 6 - 07h15 |slotID-1316
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 7 - 13h15 |slotID-1317
+Ten batch: HSA 404| BatchId-73| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-220| Slot name: Ca 8 - 13h30 |slotID-1318
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 1 - 07h00 |slotID-1255
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 2 - 07h15 |slotID-1256
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 3 - 13h15 |slotID-1257
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 4 - 13h30 |slotID-1258
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 5 - 07h00 |slotID-1259
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 6 - 07h15 |slotID-1260
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 7 - 13h15 |slotID-1261
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-221| Slot name: Ca 8 - 13h30 |slotID-1262
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 1 - 07h00 |slotID-1279
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 2 - 07h15 |slotID-1280
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 3 - 13h15 |slotID-1281
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 4 - 13h30 |slotID-1282
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 5 - 07h00 |slotID-1283
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 6 - 07h15 |slotID-1284
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 7 - 13h15 |slotID-1285
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Kinh tế Quốc dân| locationID-222| Slot name: Ca 8 - 13h30 |slotID-1286
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 1 - 07h00 |slotID-1287
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 2 - 07h15 |slotID-1288
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 3 - 13h15 |slotID-1289
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 4 - 13h30 |slotID-1290
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 5 - 07h00 |slotID-1291
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 6 - 07h15 |slotID-1292
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 7 - 13h15 |slotID-1293
+Ten batch: HSA 404| BatchId-73| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-223| Slot name: Ca 8 - 13h30 |slotID-1294
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 1 - 07h00 |slotID-1271
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 2 - 07h15 |slotID-1272
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 3 - 13h15 |slotID-1273
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 4 - 13h30 |slotID-1274
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 5 - 07h00 |slotID-1275
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 6 - 07h15 |slotID-1276
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 7 - 13h15 |slotID-1277
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-224| Slot name: Ca 8 - 13h30 |slotID-1278
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 1 - 07h00 |slotID-1303
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 2 - 07h15 |slotID-1304
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 3 - 13h15 |slotID-1305
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 4 - 13h30 |slotID-1306
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 5 - 07h00 |slotID-1307
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 6 - 07h15 |slotID-1308
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 7 - 13h15 |slotID-1309
+Ten batch: HSA 404| BatchId-73| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-226| Slot name: Ca 8 - 13h30 |slotID-1310
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 1 - 07h00 |slotID-1343
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 2 - 07h15 |slotID-1344
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 3 - 13h15 |slotID-1345
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 4 - 13h30 |slotID-1346
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 5 - 07h00 |slotID-1347
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 6 - 07h15 |slotID-1348
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 7 - 13h15 |slotID-1349
+Ten batch: HSA 404| BatchId-73| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-227| Slot name: Ca 8 - 13h30 |slotID-1350
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 1 - 07h00 |slotID-1263
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 2 - 07h15 |slotID-1264
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 3 - 13h15 |slotID-1265
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 4 - 13h30 |slotID-1266
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 5 - 07h00 |slotID-1267
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 6 - 07h15 |slotID-1268
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 7 - 13h15 |slotID-1269
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-HV Ngân hàng| locationID-228| Slot name: Ca 8 - 13h30 |slotID-1270
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 1 - 07h00 |slotID-1239
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 2 - 07h15 |slotID-1240
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 3 - 13h15 |slotID-1241
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 4 - 13h30 |slotID-1242
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 5 - 07h00 |slotID-1243
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 6 - 07h15 |slotID-1244
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 7 - 13h15 |slotID-1245
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-229| Slot name: Ca 8 - 13h30 |slotID-1246
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 1 - 07h00 |slotID-1335
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 2 - 07h15 |slotID-1336
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 3 - 13h15 |slotID-1337
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 4 - 13h30 |slotID-1338
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 5 - 07h00 |slotID-1339
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 6 - 07h15 |slotID-1340
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 7 - 13h15 |slotID-1341
+Ten batch: HSA 404| BatchId-73| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-230| Slot name: Ca 8 - 13h30 |slotID-1342
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 1 - 07h00 |slotID-1247
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 2 - 07h15 |slotID-1248
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 3 - 13h15 |slotID-1249
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 4 - 13h30 |slotID-1250
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 5 - 07h00 |slotID-1251
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 6 - 07h15 |slotID-1252
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 7 - 13h15 |slotID-1253
+Ten batch: HSA 404| BatchId-73| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-231| Slot name: Ca 8 - 13h30 |slotID-1254
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 1 - 07h00 |slotID-1319
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 2 - 07h15 |slotID-1320
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 3 - 13h15 |slotID-1321
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 4 - 13h30 |slotID-1322
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 5 - 07h00 |slotID-1323
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 6 - 07h15 |slotID-1324
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 7 - 13h15 |slotID-1325
+Ten batch: HSA 404| BatchId-73| Location name:Nghệ An-Trư�?ng �?H Vinh| locationID-232| Slot name: Ca 8 - 13h30 |slotID-1326
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 1 - 07h00 |slotID-1327
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 2 - 07h15 |slotID-1328
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 3 - 13h15 |slotID-1329
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 4 - 13h30 |slotID-1330
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 5 - 07h00 |slotID-1331
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 6 - 07h15 |slotID-1332
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 7 - 13h15 |slotID-1333
+Ten batch: HSA 404| BatchId-73| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-233| Slot name: Ca 8 - 13h30 |slotID-1334
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 1 - 07h00 |slotID-1351
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 2 - 07h15 |slotID-1352
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 3 - 13h15 |slotID-1353
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 4 - 13h30 |slotID-1354
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 5 - 07h00 |slotID-1355
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 6 - 07h15 |slotID-1356
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 7 - 13h15 |slotID-1357
+Ten batch: HSA 404| BatchId-73| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-234| Slot name: Ca 8 - 13h30 |slotID-1358
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 1 - 07h00 |slotID-1295
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 2 - 07h15 |slotID-1296
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 3 - 13h15 |slotID-1297
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 4 - 13h30 |slotID-1298
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 5 - 07h00 |slotID-1299
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 6 - 07h15 |slotID-1300
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 7 - 13h15 |slotID-1301
+Ten batch: HSA 404| BatchId-73| Location name:Hải Phòng- Trư�?ng �?H Hàng Hải VN| locationID-235| Slot name: Ca 8 - 13h30 |slotID-1302
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 1 - 07h00 |slotID-1415
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 2 - 07h15 |slotID-1416
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 3 - 13h15 |slotID-1417
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 4 - 13h30 |slotID-1418
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 5 - 07h00 |slotID-1419
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 6 - 07h15 |slotID-1420
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 7 - 13h15 |slotID-1421
+Ten batch: HSA 405| BatchId-74| Location name:Nam �?ịnh-Trư�?ng �?HSP Kỹ thuật N�?| locationID-236| Slot name: Ca 8 - 13h30 |slotID-1422
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 1 - 07h00 |slotID-1375
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 2 - 07h15 |slotID-1376
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 3 - 13h15 |slotID-1377
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 4 - 13h30 |slotID-1378
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 5 - 07h00 |slotID-1379
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 6 - 07h15 |slotID-1380
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 7 - 13h15 |slotID-1381
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H KHXH và Nhân văn| locationID-237| Slot name: Ca 8 - 13h30 |slotID-1382
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 1 - 07h00 |slotID-1399
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 2 - 07h15 |slotID-1400
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 3 - 13h15 |slotID-1401
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 4 - 13h30 |slotID-1402
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 5 - 07h00 |slotID-1403
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 6 - 07h15 |slotID-1404
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 7 - 13h15 |slotID-1405
+Ten batch: HSA 405| BatchId-74| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-238| Slot name: Ca 8 - 13h30 |slotID-1406
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 1 - 07h00 |slotID-1383
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 2 - 07h15 |slotID-1384
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 3 - 13h15 |slotID-1385
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 4 - 13h30 |slotID-1386
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 5 - 07h00 |slotID-1387
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 6 - 07h15 |slotID-1388
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 7 - 13h15 |slotID-1389
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-239| Slot name: Ca 8 - 13h30 |slotID-1390
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 1 - 07h00 |slotID-1407
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 2 - 07h15 |slotID-1408
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 3 - 13h15 |slotID-1409
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 4 - 13h30 |slotID-1410
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 5 - 07h00 |slotID-1411
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 6 - 07h15 |slotID-1412
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 7 - 13h15 |slotID-1413
+Ten batch: HSA 405| BatchId-74| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-240| Slot name: Ca 8 - 13h30 |slotID-1414
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 1 - 07h00 |slotID-1439
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 2 - 07h15 |slotID-1440
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 3 - 13h15 |slotID-1441
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 4 - 13h30 |slotID-1442
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 5 - 07h00 |slotID-1443
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 6 - 07h15 |slotID-1444
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 7 - 13h15 |slotID-1445
+Ten batch: HSA 405| BatchId-74| Location name:Thái Nguyên-TT Khảo thí và QLCL-�?HTN| locationID-241| Slot name: Ca 8 - 13h30 |slotID-1446
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 1 - 07h00 |slotID-1391
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 2 - 07h15 |slotID-1392
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 3 - 13h15 |slotID-1393
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 4 - 13h30 |slotID-1394
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 5 - 07h00 |slotID-1395
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 6 - 07h15 |slotID-1396
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 7 - 13h15 |slotID-1397
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-HV Ngân hàng| locationID-242| Slot name: Ca 8 - 13h30 |slotID-1398
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 1 - 07h00 |slotID-1359
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 2 - 07h15 |slotID-1360
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 3 - 13h15 |slotID-1361
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 4 - 13h30 |slotID-1362
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 5 - 07h00 |slotID-1363
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 6 - 07h15 |slotID-1364
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 7 - 13h15 |slotID-1365
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-243| Slot name: Ca 8 - 13h30 |slotID-1366
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 1 - 07h00 |slotID-1431
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 2 - 07h15 |slotID-1432
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 3 - 13h15 |slotID-1433
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 4 - 13h30 |slotID-1434
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 5 - 07h00 |slotID-1435
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 6 - 07h15 |slotID-1436
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 7 - 13h15 |slotID-1437
+Ten batch: HSA 405| BatchId-74| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-244| Slot name: Ca 8 - 13h30 |slotID-1438
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 1 - 07h00 |slotID-1367
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 2 - 07h15 |slotID-1368
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 3 - 13h15 |slotID-1369
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 4 - 13h30 |slotID-1370
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 5 - 07h00 |slotID-1371
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 6 - 07h15 |slotID-1372
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 7 - 13h15 |slotID-1373
+Ten batch: HSA 405| BatchId-74| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-245| Slot name: Ca 8 - 13h30 |slotID-1374
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 1 - 07h00 |slotID-1423
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 2 - 07h15 |slotID-1424
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 3 - 13h15 |slotID-1425
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 4 - 13h30 |slotID-1426
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 5 - 07h00 |slotID-1427
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 6 - 07h15 |slotID-1428
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 7 - 13h15 |slotID-1429
+Ten batch: HSA 405| BatchId-74| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-246| Slot name: Ca 8 - 13h30 |slotID-1430
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 1 - 07h00 |slotID-1447
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 2 - 07h15 |slotID-1448
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 3 - 13h15 |slotID-1449
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 4 - 13h30 |slotID-1450
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 5 - 07h00 |slotID-1451
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 6 - 07h15 |slotID-1452
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 7 - 13h15 |slotID-1453
+Ten batch: HSA 405| BatchId-74| Location name:Thanh Hóa-Trư�?ng �?H Hồng �?ức| locationID-247| Slot name: Ca 8 - 13h30 |slotID-1454
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 1 - 07h00 |slotID-1495
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 2 - 07h15 |slotID-1496
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 3 - 13h15 |slotID-1497
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 4 - 13h30 |slotID-1498
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 5 - 07h00 |slotID-1499
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 6 - 07h15 |slotID-1500
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 7 - 13h15 |slotID-1501
+Ten batch: HSA 406| BatchId-75| Location name:Hải Dương-Trư�?ng �?H Sao �?�?| locationID-248| Slot name: Ca 8 - 13h30 |slotID-1502
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 1 - 07h00 |slotID-1487
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 2 - 07h15 |slotID-1488
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 3 - 13h15 |slotID-1489
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 4 - 13h30 |slotID-1490
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 5 - 07h00 |slotID-1491
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 6 - 07h15 |slotID-1492
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 7 - 13h15 |slotID-1493
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Tr�?H Tài Nguyên Môi trư�?ng HN| locationID-249| Slot name: Ca 8 - 13h30 |slotID-1494
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 1 - 07h00 |slotID-1471
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 2 - 07h15 |slotID-1472
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 3 - 13h15 |slotID-1473
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 4 - 13h30 |slotID-1474
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 5 - 07h00 |slotID-1475
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 6 - 07h15 |slotID-1476
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 7 - 13h15 |slotID-1477
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Thăng Long| locationID-250| Slot name: Ca 8 - 13h30 |slotID-1478
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 1 - 07h00 |slotID-1503
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 2 - 07h15 |slotID-1504
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 3 - 13h15 |slotID-1505
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 4 - 13h30 |slotID-1506
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 5 - 07h00 |slotID-1507
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 6 - 07h15 |slotID-1508
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 7 - 13h15 |slotID-1509
+Ten batch: HSA 406| BatchId-75| Location name:Hưng Yên-Trư�?ng �?HSP Kỹ thuật HY| locationID-251| Slot name: Ca 8 - 13h30 |slotID-1510
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 1 - 07h00 |slotID-1479
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 2 - 07h15 |slotID-1480
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 3 - 13h15 |slotID-1481
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 4 - 13h30 |slotID-1482
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 5 - 07h00 |slotID-1483
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 6 - 07h15 |slotID-1484
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 7 - 13h15 |slotID-1485
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-HV Ngân hàng| locationID-252| Slot name: Ca 8 - 13h30 |slotID-1486
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 1 - 07h00 |slotID-1455
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 2 - 07h15 |slotID-1456
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 3 - 13h15 |slotID-1457
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 4 - 13h30 |slotID-1458
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 5 - 07h00 |slotID-1459
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 6 - 07h15 |slotID-1460
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 7 - 13h15 |slotID-1461
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-TT Khảo thí �?HQGHN| locationID-253| Slot name: Ca 8 - 13h30 |slotID-1462
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 1 - 07h00 |slotID-1519
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 2 - 07h15 |slotID-1520
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 3 - 13h15 |slotID-1521
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 4 - 13h30 |slotID-1522
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 5 - 07h00 |slotID-1523
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 6 - 07h15 |slotID-1524
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 7 - 13h15 |slotID-1525
+Ten batch: HSA 406| BatchId-75| Location name:Thái Bình-Trư�?ng �?H Thái Bình| locationID-254| Slot name: Ca 8 - 13h30 |slotID-1526
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 1 - 07h00 |slotID-1463
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 2 - 07h15 |slotID-1464
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 3 - 13h15 |slotID-1465
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 4 - 13h30 |slotID-1466
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 5 - 07h00 |slotID-1467
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 6 - 07h15 |slotID-1468
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 7 - 13h15 |slotID-1469
+Ten batch: HSA 406| BatchId-75| Location name:Hà Nội-Trư�?ng �?H Công nghệ-�?HQGHN| locationID-255| Slot name: Ca 8 - 13h30 |slotID-1470
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 1 - 07h00 |slotID-1511
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 2 - 07h15 |slotID-1512
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 3 - 13h15 |slotID-1513
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 4 - 13h30 |slotID-1514
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 5 - 07h00 |slotID-1515
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 6 - 07h15 |slotID-1516
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 7 - 13h15 |slotID-1517
+Ten batch: HSA 406| BatchId-75| Location name:Ninh Bình-Trư�?ng �?H Hoa Lư| locationID-256| Slot name: Ca 8 - 13h30 |slotID-1518
